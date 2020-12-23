@@ -1,0 +1,107 @@
+.topo{
+    width:100%;
+    height: 150px;
+    background-color:#184630;
+}
+#logo{
+    width: 20%;
+    height: 69px;
+    margin-left: 40%;
+    margin-top: 50px;
+}
+.categorias{
+    width: 50%;
+    height: 200px;
+    margin: 0 auto;
+}
+.titulo{
+    width: 50%;
+    height: 100px;
+    margin: 0 auto;
+}
+.img-op{
+    float: left;
+    margin-left: 6%;
+    margin-top: 30px;
+    border-radius: 40px solid;
+}
+hr{
+    background-color: #F87F11;
+    width: 60%;
+    height: 10px;
+}
+h1{
+   text-align: center;
+}
+
+.medicamento{
+    width: 30%;
+    float: left;
+}
+.med-nome{
+    float:right;
+    font-size: 30px;
+    color: red;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img-med{
+    width: 80%;
+}
+.container-medicamentos{
+    width: 60%;
+    margin: 0 auto;
+}
+.container-medicamentos-similar{
+    width: 60%;
+    margin: 0 auto;
+}
+.container-medicamentos-generico{
+    width: 60%;
+    margin: 0 auto;
+}
+.container-medicamentos-referencia{
+    width: 60%;
+    margin: 0 auto;
+}
+.container-medicamentos-id{
+    width: 60%;
+    margin: 0 auto;
+}
+#img-med-grande{
+    float: left;
+    width: 50%;
+    height: 500px;
+}
+.med-nome-grande{
+    float: right;
+    margin-top: 30px;
+    margin-right: 5%;
+    width:40%;
+    color: black;
+    font-size: 23px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.medicamento-grande{
+    width: 100%;
+    float: left;
+}
+.rodape{
+    margin-top: 750px;
+    width:100%;
+    height: 150px;
+    background-color: #184630;
+}
+#rodape-logo{
+    width: 20%;
+    height: 69px;
+    float: right;
+    margin-top: 30px;
+}
+#faixa{
+    width: 100%;
+    background-color: #F87F11;
+    height: 30px;
+}
